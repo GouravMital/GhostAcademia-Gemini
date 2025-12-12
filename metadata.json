@@ -1,0 +1,7 @@
+{
+  "name": "Ghost-CertiFier",
+  "description": "A quantum-ready, tamper-evident digital certificate issuance and verification platform with steganographic watermarking and anti-cheat assessment.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
